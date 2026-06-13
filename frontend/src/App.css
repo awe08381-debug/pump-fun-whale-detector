@@ -1,0 +1,13 @@
+:root {
+  --bg-primary: #0f172a;
+  --bg-secondary: #1e293b;
+  --bg-tertiary: #334155;
+  --accent-primary: #10b981;
+  --accent-secondary: #f59e0b;
+  --accent-danger: #ef4444;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: #fff;
+}
